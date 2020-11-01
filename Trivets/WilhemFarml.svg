@@ -14,7 +14,7 @@
    viewBox="0 0 215.9 279.4"
    version="1.1"
    id="svg4596"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="WilhemFarml.svg">
   <defs
      id="defs4590">
@@ -102,13 +102,13 @@
      inkscape:cx="233.61151"
      inkscape:cy="600.95326"
      inkscape:document-units="in"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3508"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1600"
-     inkscape:window-height="1106"
-     inkscape:window-x="1909"
-     inkscape:window-y="-11"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="in" />
   <metadata
@@ -128,85 +128,13 @@
      inkscape:label="Black Outside"
      id="layer3"
      inkscape:groupmode="layer">
-    <circle
-       r="75.233543"
+    <ellipse
        cy="139.7"
        cx="107.95"
        id="path3513"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.29512;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <g
-       id="g3241"
-       transform="translate(69.7472,159.002)"
-       inkscape:label="WireframeSphere">
-      <g
-         id="g3233"
-         inkscape:label="Lines of Longitude">
-        <ellipse
-           ry="5.2916665"
-           rx="0.001"
-           cy="0"
-           cx="0"
-           id="path3231"
-           style="fill:none;stroke:#000000;stroke-width:0.264583" />
-      </g>
-      <g
-         id="g3237"
-         inkscape:label="Lines of Latitude">
-        <ellipse
-           ry="0.001"
-           rx="5.2916665"
-           cy="3.2401043e-16"
-           cx="0"
-           id="path3235"
-           style="fill:none;stroke:#000000;stroke-width:0.264583" />
-      </g>
-      <circle
-         r="5.2916665"
-         cy="0"
-         cx="0"
-         id="path3239"
-         style="fill:none;stroke:#000000;stroke-width:0.264583" />
-    </g>
-    <g
-       id="g3470"
-       transform="translate(69.7472,159.002)"
-       inkscape:label="WireframeSphere">
-      <g
-         id="g3462"
-         inkscape:label="Lines of Longitude">
-        <ellipse
-           ry="5.2916665"
-           rx="0.001"
-           cy="0"
-           cx="0"
-           id="path3460"
-           style="fill:none;stroke:#000000;stroke-width:0.264583" />
-      </g>
-      <g
-         id="g3466"
-         inkscape:label="Lines of Latitude">
-        <ellipse
-           ry="0.001"
-           rx="5.2916665"
-           cy="3.2401043e-16"
-           cx="0"
-           id="path3464"
-           style="fill:none;stroke:#000000;stroke-width:0.264583" />
-      </g>
-      <circle
-         r="5.2916665"
-         cy="0"
-         cx="0"
-         id="path3468"
-         style="fill:none;stroke:#000000;stroke-width:0.264583" />
-    </g>
-    <text
-       xml:space="preserve"
-       id="text372"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect374);fill:#000000;fill-opacity:1;stroke:none;"><tspan
-         x="-116.79492"
-         y="195.62031"><tspan>Wilhelm Farm
-</tspan></tspan></text>
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.38817;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="76.863411"
+       ry="76.863419" />
   </g>
   <g
      style="display:inline"
@@ -215,7 +143,8 @@
      id="layer1">
     <g
        id="g12-62"
-       transform="matrix(0.06633122,0,0,-0.06629323,30.563422,218.14713)">
+       transform="matrix(0.06866157,0,0,-0.06862224,27.844675,220.90313)"
+       style="display:inline">
       <path
          d="m 91.668,1183.34 c 0,594.05 481.297,1075.62 1075.002,1075.62 593.71,0 1075,-481.57 1075,-1075.62 0,-594.059 -481.29,-1075.629 -1075,-1075.629 -593.705,0 -1075.002,481.57 -1075.002,1075.629"
          style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -461,43 +390,17 @@
          style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86369;stroke-dasharray:none;stroke-opacity:1"
          id="path134-8" />
     </g>
-    <g
-       id="g1748"
-       transform="translate(65.967438,220.63419)"
-       inkscape:label="WireframeSphere">
-      <g
-         id="g1740"
-         inkscape:label="Lines of Longitude">
-        <ellipse
-           id="path1738"
-           style="fill:none;stroke:#000000;stroke-width:0.264583"
-           cx="0"
-           cy="0"
-           rx="0.001"
-           ry="5.2916665" />
-      </g>
-      <g
-         id="g1744"
-         inkscape:label="Lines of Latitude">
-        <ellipse
-           id="path1742"
-           style="fill:none;stroke:#000000;stroke-width:0.264583"
-           cx="0"
-           cy="3.2401043e-16"
-           rx="5.2916665"
-           ry="0.001" />
-      </g>
-      <circle
-         id="path1746"
-         style="fill:none;stroke:#000000;stroke-width:0.264583"
-         cx="0"
-         cy="0"
-         r="5.2916665" />
-    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Registration"
+     style="display:none">
     <g
        id="g1929"
        transform="translate(177.09243,197.57764)"
-       inkscape:label="WireframeSphere">
+       inkscape:label="WireframeSphere"
+       style="display:inline">
       <g
          id="g1921"
          inkscape:label="Lines of Longitude">
@@ -528,9 +431,44 @@
          r="5.2916665" />
     </g>
     <g
+       id="g2924"
+       transform="translate(175.58052,82.294907)"
+       inkscape:label="WireframeSphere"
+       style="display:inline">
+      <g
+         id="g2916"
+         inkscape:label="Lines of Longitude">
+        <ellipse
+           id="path2914"
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           cx="0"
+           cy="0"
+           rx="0.001"
+           ry="5.2916665" />
+      </g>
+      <g
+         id="g2920"
+         inkscape:label="Lines of Latitude">
+        <ellipse
+           id="path2918"
+           style="fill:none;stroke:#000000;stroke-width:0.264583"
+           cx="0"
+           cy="3.2401043e-16"
+           rx="5.2916665"
+           ry="0.001" />
+      </g>
+      <circle
+         id="path2922"
+         style="fill:none;stroke:#000000;stroke-width:0.264583"
+         cx="0"
+         cy="0"
+         r="5.2916665" />
+    </g>
+    <g
        id="g2713"
-       transform="translate(59.163867,64.530023)"
-       inkscape:label="WireframeSphere">
+       transform="translate(59.163868,64.530023)"
+       inkscape:label="WireframeSphere"
+       style="display:inline">
       <g
          id="g2705"
          inkscape:label="Lines of Longitude">
@@ -561,14 +499,15 @@
          r="5.2916665" />
     </g>
     <g
-       id="g2924"
-       transform="translate(175.58052,82.294906)"
-       inkscape:label="WireframeSphere">
+       id="g1748"
+       transform="translate(65.967438,220.63419)"
+       inkscape:label="WireframeSphere"
+       style="display:inline">
       <g
-         id="g2916"
+         id="g1740"
          inkscape:label="Lines of Longitude">
         <ellipse
-           id="path2914"
+           id="path1738"
            style="fill:none;stroke:#000000;stroke-width:0.264583"
            cx="0"
            cy="0"
@@ -576,10 +515,10 @@
            ry="5.2916665" />
       </g>
       <g
-         id="g2920"
+         id="g1744"
          inkscape:label="Lines of Latitude">
         <ellipse
-           id="path2918"
+           id="path1742"
            style="fill:none;stroke:#000000;stroke-width:0.264583"
            cx="0"
            cy="3.2401043e-16"
@@ -587,7 +526,7 @@
            ry="0.001" />
       </g>
       <circle
-         id="path2922"
+         id="path1746"
          style="fill:none;stroke:#000000;stroke-width:0.264583"
          cx="0"
          cy="0"
@@ -600,11 +539,11 @@
      inkscape:label="White Outside"
      style="display:inline">
     <circle
-       style="display:inline;fill:#ff0000;fill-opacity:0;stroke:#ffffff;stroke-width:2.25251;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98"
+       style="display:inline;fill:#00ff97;fill-opacity:0;stroke:#ea9a9a;stroke-width:1.8065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98"
        id="path1315"
-       cx="107.95"
+       cx="108.07719"
        cy="139.7"
-       r="71.263748" />
+       r="73.264748" />
   </g>
   <g
      id="g3508"
@@ -862,6 +801,6 @@
     <path
        id="path3506"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.14081;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 93.357429,79.198086 a 11.279478,5.0328604 0 0 1 11.142751,4.329997 8.6006037,3.8375563 0 0 1 3.35343,-0.303754 8.6006037,3.8375563 0 0 1 6.50301,1.326078 17.623808,5.8064897 0 0 1 3.97287,-0.149448 17.623808,5.8064897 0 0 1 17.6238,5.806505 17.623808,5.8064897 0 0 1 -17.6238,5.806467 17.623808,5.8064897 0 0 1 -3.30052,-0.102697 19.739088,4.4037527 0 0 1 -12.67407,1.027655 19.739088,4.4037527 0 0 1 -13.033091,-1.09643 17.794315,4.9070392 0 0 1 -9.273032,0.718966 17.794315,4.9070392 0 0 1 -17.794286,-4.90704 17.794315,4.9070392 0 0 1 14.768373,-4.835569 8.0366294,3.5859133 0 0 1 -0.04684,-0.386018 8.0366294,3.5859133 0 0 1 5.392583,-3.386292 11.279478,5.0328604 0 0 1 10.962613,-3.84842 11.279478,5.0328604 0 0 1 0.02611,0 z" />
+       d="m 95.625286,78.064157 a 11.279478,5.0328604 0 0 1 11.142744,4.329997 8.6006037,3.8375563 0 0 1 3.35343,-0.303754 8.6006037,3.8375563 0 0 1 6.50301,1.326078 17.623808,5.8064897 0 0 1 3.97287,-0.149448 17.623808,5.8064897 0 0 1 17.6238,5.806505 17.623808,5.8064897 0 0 1 -17.6238,5.806467 17.623808,5.8064897 0 0 1 -3.30052,-0.102697 19.739088,4.4037527 0 0 1 -12.67407,1.027655 19.739088,4.4037527 0 0 1 -13.033084,-1.09643 17.794315,4.9070392 0 0 1 -9.273032,0.718966 17.794315,4.9070392 0 0 1 -17.794286,-4.90704 17.794315,4.9070392 0 0 1 14.768373,-4.835569 8.0366294,3.5859133 0 0 1 -0.04684,-0.386018 8.0366294,3.5859133 0 0 1 5.392583,-3.386292 11.279478,5.0328604 0 0 1 10.962613,-3.84842 11.279478,5.0328604 0 0 1 0.02611,0 z" />
   </g>
 </svg>
